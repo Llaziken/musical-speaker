@@ -1,3 +1,7 @@
+# Forked because of a typo
+
+Original repo by [Xcelled](https://github.com/Xcelled/musical-speaker), latest release there however does not work.
+
 # musical-speaker
 
 A Factorio mod that provides an enhanced version of the programmable speaker, mostly intended for music production.
